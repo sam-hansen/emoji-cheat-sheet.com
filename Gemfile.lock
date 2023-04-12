@@ -109,15 +109,15 @@ GEM
     inflecto (0.0.2)
     ipaddress (0.8.0)
     mime-types (2.6.2)
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.1)
     multi_json (1.11.2)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (3.0.1)
-    nokogiri (1.13.10)
+    nokogiri (1.14.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    racc (1.6.1)
+    racc (1.6.2)
     rake (12.3.3)
 
 PLATFORMS
